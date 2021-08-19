@@ -40,7 +40,6 @@ body {
 }
 
 .page {
-    margin-left: auto;
     padding: 30px;
     border-radius: 3px;
     font-size: calc(12px + 1.4vw);
