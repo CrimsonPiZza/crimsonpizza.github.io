@@ -9,7 +9,7 @@ html {
     overflow-x: hidden;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 992px) {
     html {
         overflow-y: auto;
     }
@@ -66,7 +66,7 @@ body {
 
 /* Animated background */
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 992px) {
 
     .svg:nth-child(1) {
         left: -10%;
